@@ -6,3 +6,5 @@ Co-authored commit
 Co-authored PR attempt
 
 Pull Shark Boost!
+
+Strict Format Co-author
